@@ -11,3 +11,7 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 - Emiliano Arista Rodríguez
 - Milton Florencio Arzate
 - Iñaki Iturriaga Rabanal
+
+## Seguridad
+
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
